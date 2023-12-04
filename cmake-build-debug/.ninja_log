@@ -1,0 +1,4 @@
+# ninja log v5
+0	164	1701653002338988430	CMakeFiles/TMhttp.dir/SQLConnect/sql_connect.cpp.o	5f28628405d99337
+0	459	1701653002633098477	CMakeFiles/TMhttp.dir/src/TEST.cpp.o	a25fbbd4ed6d6105
+461	555	1701653002729190869	TMhttp	f3d884e8bdc8932
