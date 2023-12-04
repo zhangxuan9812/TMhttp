@@ -1,0 +1,3 @@
+/Users/xuanzhang/Work/TMhttp/cmake-build-debug/CMakeFiles/TMhttp.dir
+/Users/xuanzhang/Work/TMhttp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xuanzhang/Work/TMhttp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
